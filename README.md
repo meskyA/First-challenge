@@ -7,3 +7,4 @@ Doing so helped me to identify or define different parts or sections on the web 
 <img width="1280" alt="Screen Shot 2022-06-15 at 6 26 20 PM" src="https://user-images.githubusercontent.com/107022225/173972167-9c94cb3a-7536-43ae-abee-13f132442b28.png">
 <img width="1280" alt="Screen Shot 2022-06-15 at 6 27 17 PM" src="https://user-images.githubusercontent.com/107022225/173972321-981d2dc4-7698-4e5b-9cbe-bd915fa1177f.png">
 <img width="1280" alt="Screen Shot 2022-06-15 at 6 34 30 PM" src="https://user-images.githubusercontent.com/107022225/173972599-296528a1-4c1d-4ea0-9b4f-bc240e2961d7.png">
+I moved  "Develop" folder to the root directory
